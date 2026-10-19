@@ -2,6 +2,7 @@
 
 ## 🔗 Video Demo
 [[Paste your Video Link Here](https://drive.google.com/file/d/1ke2gtknTmAkDwwEl13lw6pybNDaYa1cp/view?usp=drive_link)]
+[[Paste your video link here](https://drive.google.com/file/d/1cHqFBfVy2XS5DOwj9S4SkSVPebiKEwgq/view?usp=drive_link)]
 
 ## 🚀 Setup (≤ 5 commands)
 1. `cd backend && pip install -r requirements.txt`
