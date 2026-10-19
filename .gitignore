@@ -1,0 +1,24 @@
+# Secrets
+.env
+
+# Databases
+data/quickcart.db
+
+# Model weights & Audio
+voices/
+*.onnx
+*.wav
+*.mp3
+fleurus_clips/
+
+# Python
+__pycache__/
+venv/
+.venv/
+
+# Node
+node_modules/
+frontend/dist/
+
+# OS
+.DS_Store

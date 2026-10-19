@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "description": "All fields in one message",
+    "steps": ["I am Priya, order QC-151998, kurta torn, 9091390996", "yes"]
+  },
+  {
+    "id": "2",
+    "description": "Invalid mobile",
+    "steps": ["I want to complain", "Priya, 12345", "9091390996, QC-151998, torn kurta", "yes"]
+  },
+  {
+    "id": "3",
+    "description": "Order ID not belonging to mobile",
+    "steps": ["Priya, QC-139317, torn kurta, 9091390996", "My order is QC-151998", "yes"]
+  },
+  {
+    "id": "4",
+    "description": "Correction after read-back",
+    "steps": ["I am Priya, QC-151998, torn kurta, 9091390996", "no, the order is QC-139317", "yes"]
+  },
+  {
+    "id": "5",
+    "description": "Policy question mid-complaint",
+    "steps": ["I am Priya", "wait, how long do refunds take?", "QC-151998, torn kurta, 9091390996", "yes"]
+  },
+  {
+    "id": "6",
+    "description": "Out-of-scope question",
+    "steps": ["Who is the CEO of QuickCart?"]
+  },
+  {
+    "id": "7",
+    "description": "Order-status check",
+    "steps": ["Where is my order QC-769949?", "7819482199"]
+  },
+  {
+    "id": "8",
+    "description": "Fraud/safety report",
+    "steps": ["Someone is asking for my OTP on WhatsApp"]
+  },
+  {
+    "id": "9",
+    "description": "Hindi complaint",
+    "steps": ["मेरा नाम प्रिया है, ऑर्डर QC-151998, कुर्ता फटा हुआ आया है, 9091390996", "हाँ"]
+  },
+  {
+    "id": "10",
+    "description": "Hinglish policy question",
+    "steps": ["Mera refund kitne din mein aayega?"]
+  }
+]

@@ -1,0 +1,21 @@
+order_id,customer_name,mobile,city,item,category,amount_inr,payment_method,order_date,promised_date,status
+QC-139317,Aarav Sharma,9018159083,Delhi,Basmati Rice 5kg,Groceries,649,Net banking,2026-10-03,2026-10-08,Delivered
+QC-151998,Priya Verma,9091390996,Chennai,Cotton Kurta,Fashion,899,UPI,2026-10-02,2026-10-08,Delivered
+QC-769949,Rohan Gupta,7819482199,Chennai,Running Shoes,Fashion,2199,COD,2026-10-07,2026-10-09,Delivered
+QC-360494,Ananya Iyer,7786579754,Bhopal,Cooking Oil 1L x3,Groceries,459,Card,2026-10-01,2026-10-08,Shipped
+QC-538433,Vikram Singh,8875749118,Bengaluru,Smartphone 128GB,Electronics,18999,COD,2026-10-10,2026-10-13,Returned
+QC-172103,Neha Patel,6895559797,Chandigarh,LED TV 43in,Electronics,27999,UPI,2026-10-01,2026-10-05,Returned
+QC-740595,Arjun Reddy,8974650752,Delhi,Smartphone 128GB,Electronics,18999,Net banking,2026-10-01,2026-10-03,Shipped
+QC-243577,Kavya Nair,7667127684,Chandigarh,Running Shoes,Fashion,2199,Net banking,2026-10-03,2026-10-09,Out for delivery
+QC-971464,Rahul Mehta,9321223307,Lucknow,LED TV 43in,Electronics,27999,Card,2026-10-06,2026-10-10,Out for delivery
+QC-578825,Sneha Joshi,9859952890,Nagpur,Wireless Earbuds,Electronics,2499,Wallet,2026-10-03,2026-10-08,Cancelled
+QC-456572,Imran Qureshi,6760313721,Lucknow,LED TV 43in,Electronics,27999,UPI,2026-10-07,2026-10-09,Delivered
+QC-464264,Pooja Agarwal,6590139624,Lucknow,Cooking Oil 1L x3,Groceries,459,COD,2026-10-03,2026-10-08,Delivered
+QC-969117,Karan Malhotra,9774121547,Indore,Smartphone 128GB,Electronics,18999,Card,2026-10-08,2026-10-14,Delivered
+QC-275156,Divya Menon,8280841485,Kolkata,Cotton Kurta,Fashion,899,Card,2026-10-09,2026-10-15,Processing
+QC-928494,Siddharth Rao,7363387500,Hyderabad,Cotton Kurta,Fashion,899,Net banking,2026-10-10,2026-10-14,Shipped
+QC-314301,Meera Kulkarni,9551313735,Ahmedabad,Cooking Oil 1L x3,Groceries,459,Wallet,2026-10-06,2026-10-12,Delivered
+QC-939724,Aditya Bose,8116372651,Indore,Air Fryer,Appliances,5499,Net banking,2026-10-11,2026-10-16,Cancelled
+QC-597399,Riya Chatterjee,7220297299,Kochi,Smartphone 128GB,Electronics,18999,COD,2026-10-12,2026-10-15,Delivered
+QC-625506,Manish Yadav,6826330434,Chennai,Wireless Earbuds,Electronics,2499,Wallet,2026-10-01,2026-10-05,Out for delivery
+QC-259211,Fatima Shaikh,7057986828,Jaipur,Denim Jacket,Fashion,1799,Wallet,2026-10-07,2026-10-09,Returned

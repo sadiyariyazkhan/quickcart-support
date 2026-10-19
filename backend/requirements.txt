@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+pydantic
+python-multipart
+python-dotenv
+groq
+faster-whisper
+gtts
+pytest
+requests
+huggingface_hub
+jiwer

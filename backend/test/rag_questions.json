@@ -1,0 +1,11 @@
+[
+  { "question": "What is the return window for electronics?", "expected_section": "§3.1" },
+  { "question": "When will my UPI refund arrive?", "expected_section": "§4.1" },
+  { "question": "Can I cancel a grocery order?", "expected_section": "§2.3" },
+  { "question": "Do you offer no-cost EMI?", "expected_section": "§7.3" },
+  { "question": "Is QuickCart available in Jaipur?", "expected_section": "§1.5" },
+  { "question": "क्या मैं जूते वापस कर सकता हूँ?", "expected_section": "§3.1" },
+  { "question": "मेरा रिफंड कब आएगा?", "expected_section": "§4.1" },
+  { "question": "Who is the CEO of QuickCart?", "expected_section": null },
+  { "question": "What is the stock price of QuickCart?", "expected_section": null }
+]
